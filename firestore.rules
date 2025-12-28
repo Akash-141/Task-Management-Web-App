@@ -1,0 +1,15 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Production-ready security rules
+    match /users/{userId} {
+      // Users can only read/write their own data
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      
+      // Tasks subcollection
+      match /tasks/{taskId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+  }
+}
