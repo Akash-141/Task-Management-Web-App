@@ -355,6 +355,7 @@
 
         return false;
     }
+        
 
     // ===== MODALS =====
     let editingTaskId = null;
