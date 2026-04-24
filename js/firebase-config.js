@@ -133,6 +133,7 @@
             throw error;
         }
     }
+    
 
     /**
      * Sign in with Google
