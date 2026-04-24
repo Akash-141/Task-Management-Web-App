@@ -191,6 +191,7 @@
                         doneList.appendChild(taskElement);
                     }
                 });
+                    
 
                 // Update column counts
                 document.getElementById('todo-count').textContent = this.tasks.filter(t => t.status === 'todo').length;
