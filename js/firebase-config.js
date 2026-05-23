@@ -231,6 +231,7 @@
             throw error;
         }
     }
+    
 
     /**
      * Set/update user profile in Firestore
