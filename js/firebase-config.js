@@ -134,7 +134,6 @@
         }
     }
     
-
     /**
      * Sign in with Google
      * @returns {Promise<firebase.User>}
