@@ -192,7 +192,6 @@
                     }
                 });
                     
-
                 // Update column counts
                 document.getElementById('todo-count').textContent = this.tasks.filter(t => t.status === 'todo').length;
                 document.getElementById('in-progress-count').textContent = this.tasks.filter(t => t.status === 'in-progress').length;
