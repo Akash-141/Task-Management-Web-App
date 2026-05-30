@@ -175,6 +175,7 @@
         }
     }
 
+    
     // Signup with Email
     async function handleSignup(e) {
         e.preventDefault();
