@@ -73,7 +73,6 @@
         }
     }
 
-    
     // ===== LOADING STATE =====
     function setLoading(formType, isLoading) {
         let submitBtn, btnText, spinner;
