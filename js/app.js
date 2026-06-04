@@ -249,7 +249,6 @@
                 ` : ''}
             `;
 
-                    
             // Event listeners
             div.querySelector('.task-edit-btn').addEventListener('click', (e) => {
                 e.stopPropagation();
