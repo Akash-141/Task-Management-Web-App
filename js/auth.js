@@ -101,6 +101,7 @@
         }
     }
 
+    
     // ===== PASSWORD VISIBILITY TOGGLE =====
     function togglePasswordVisibility(inputId, toggleBtn) {
         const input = document.getElementById(inputId);
