@@ -31,6 +31,7 @@
         hideMessages();
     }
 
+    
     // ===== MESSAGES =====
     function showError(message) {
         const errorDiv = document.getElementById('error-message');
