@@ -29,8 +29,6 @@
             }
         });
 
-    
-
     // Test Firestore connection
     console.log('🔥 Firebase initialized');
     console.log('📊 Firestore instance:', db);
