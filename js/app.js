@@ -312,6 +312,8 @@
         }
     }
 
+        
+
     // ===== DRAG AND DROP =====
     let draggedElement = null;
 
