@@ -275,8 +275,6 @@
                 });
             }
 
-
-
             // Drag events
             div.addEventListener('dragstart', handleDragStart);
             div.addEventListener('dragend', handleDragEnd);
