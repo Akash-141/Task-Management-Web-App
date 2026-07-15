@@ -6,6 +6,8 @@
     let currentForm = 'login'; // 'login', 'signup', or 'reset'
     let currentTheme = localStorage.getItem('theme') || 'light';
 
+
+    
     // ===== FORM SWITCHING =====
     function showLoginForm() {
         currentForm = 'login';
@@ -74,7 +76,6 @@
         }
     }
 
-    
     // ===== LOADING STATE =====
     function setLoading(formType, isLoading) {
         let submitBtn, btnText, spinner;
