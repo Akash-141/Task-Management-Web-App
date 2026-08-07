@@ -8,12 +8,6 @@
         let taskManagerInstance = null;
         let unsubscribeFromTasks = null;
         let lastDeletedTask = null;
-
-        
-
-
-
-
 
 
         // ===== TASK MANAGER =====
