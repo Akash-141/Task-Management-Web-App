@@ -9,7 +9,6 @@
         let unsubscribeFromTasks = null;
         let lastDeletedTask = null;
 
-
         // ===== TASK MANAGER =====
         class TaskManager {
             constructor() {
@@ -23,6 +22,11 @@
                 this.userId = userId;
                 this.mode = 'user';
 
+
+
+
+
+                    
                 // Unsubscribe from previous listener if exists
                 if (unsubscribeFromTasks) {
                     unsubscribeFromTasks();
