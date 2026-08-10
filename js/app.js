@@ -22,11 +22,6 @@
                 this.userId = userId;
                 this.mode = 'user';
 
-
-
-
-
-                    
                 // Unsubscribe from previous listener if exists
                 if (unsubscribeFromTasks) {
                     unsubscribeFromTasks();
