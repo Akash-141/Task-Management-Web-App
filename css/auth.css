@@ -2,6 +2,13 @@
 
 /* Variables are inherited from main styles.css if loaded, otherwise define them */
 
+
+
+
+
+
+
+
 :root {
     --bg-primary: #f8fafc;
     --bg-secondary: #ffffff;
