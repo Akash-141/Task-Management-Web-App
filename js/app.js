@@ -3,12 +3,6 @@
         'use strict';
 
 
-
-
-
-
-
-
         // ===== STATE =====
         let currentUser = null;
         let currentTheme = localStorage.getItem('theme') || 'light';
