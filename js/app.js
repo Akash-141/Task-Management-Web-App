@@ -1,7 +1,13 @@
 // Main Application Logic
 (function() {
         'use strict';
-
+
+
+
+
+
+
+
         
         // ===== STATE =====
         let currentUser = null;
