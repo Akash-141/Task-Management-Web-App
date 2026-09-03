@@ -3,6 +3,13 @@
     'use strict';
 
 
+
+
+
+
+
+
+    
     // Firebase configuration
     const firebaseConfig = {
         apiKey: "AIzaSyD49ZgZXjWkR2U-jqtur5BAJKE1QiA6ulk",
@@ -12,7 +19,6 @@
         messagingSenderId: "13772717006",
         appId: "1:13772717006:web:50f776583efc899137499f"
     };
-
 
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
