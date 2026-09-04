@@ -8,6 +8,14 @@
 
 
 
+
+
+
+
+
+
+
+    
     // ===== FORM SWITCHING =====
     function showLoginForm() {
         currentForm = 'login';
