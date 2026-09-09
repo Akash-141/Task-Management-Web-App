@@ -1,15 +1,6 @@
 // Firebase Configuration and Helper Functions
 (function() {
     'use strict';
-
-
-
-
-
-
-
-
-
     
     // Firebase configuration
     const firebaseConfig = {
