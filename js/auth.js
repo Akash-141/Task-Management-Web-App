@@ -1,17 +1,6 @@
 // Authentication Page Logic
 (function() {
     'use strict';
-
-
-
-
-
-
-
-
-
-
-
     
     // ===== STATE =====
     let currentForm = 'login'; // 'login', 'signup', or 'reset'
