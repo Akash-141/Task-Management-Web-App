@@ -19,6 +19,19 @@
     const auth = firebase.auth();
     const db = firebase.firestore();
 
+
+
+
+
+
+
+
+
+
+
+
+
+    
     // Enable offline persistence
     db.enablePersistence()
         .catch((err) => {
