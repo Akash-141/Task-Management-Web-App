@@ -7,6 +7,16 @@
     let currentTheme = localStorage.getItem('theme') || 'light';
 
 
+
+
+
+
+
+
+
+
+    
+
     // ===== FORM SWITCHING =====
     function showLoginForm() {
         currentForm = 'login';
