@@ -10,7 +10,22 @@
         let lastDeletedTask = null;
 
 
-        
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
         // ===== TASK MANAGER =====
         class TaskManager {
             constructor() {
