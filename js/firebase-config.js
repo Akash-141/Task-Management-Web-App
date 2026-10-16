@@ -12,25 +12,26 @@
         appId: "1:13772717006:web:50f776583efc899137499f"
     };
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
 
     // Get Firebase services
     const auth = firebase.auth();
     const db = firebase.firestore();
-
-
-
-
-
-
-
-
-
-
-
-
-
     
     // Enable offline persistence
     db.enablePersistence()
