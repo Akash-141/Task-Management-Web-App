@@ -17,6 +17,17 @@
         hideMessages();
     }
 
+
+
+
+
+
+
+
+
+
+
+    
     function showSignupForm() {
         currentForm = 'signup';
         document.getElementById('login-form-container').classList.add('hidden');
