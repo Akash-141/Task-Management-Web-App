@@ -18,15 +18,6 @@
     }
 
 
-
-
-
-
-
-
-
-
-
     
     function showSignupForm() {
         currentForm = 'signup';
