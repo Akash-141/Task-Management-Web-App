@@ -15,19 +15,6 @@
     };
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     
     
     // Initialize Firebase
